@@ -1,0 +1,1 @@
+once from a template a form is created by the user then on the basis of the category selected the form will be put under a tag in Tag collection
